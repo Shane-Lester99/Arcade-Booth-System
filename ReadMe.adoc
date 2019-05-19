@@ -2,7 +2,7 @@
 :Email: Shanejlester@gmail.com
 :Date: 07/11/2018
 :Revision: 1
-:License: None
+:License: MIT
 
 # How this application works:
  
