@@ -14,5 +14,5 @@ To control menus and select pieces, a joystick (10k analog potentiometer) is use
 
 The program is implemented in the C++ programming language using the Arduino IDE.
 
-Note: the wire diagram, photos of the application, and the entire parts list is in the `specs.pdf` file.
+Note: the wire diagram, photos of the application, and the entire parts list is in the directory `pdfs`.
 
