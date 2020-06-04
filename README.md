@@ -21,3 +21,13 @@ This repository contains the part list, schematics, and code to reproduce a clas
 -  Perma-Proto Half-sized Breadboard PCB produced by Adafruit and bought [here](https://www.adafruit.com/product/1609?gclid=EAIaIQobChMIuvWR9YWo3wIVB4bICh1qIg2kEAQYAiABEgKI-PD_BwE), used to solder male to male wires from the Elegoo Uno R3 to the mini analog joystick.
 
 - Loose Lego bricks purchased at the Lego store used as a shell for the arcade booth. Two small containers of blue studs size 4 by 2, two large containers of black studs size 6 by 2, and one blue Lego baseplate 32 by 32 studs were used.
+
+## Schematics
+
+![schematics](arcade_booth_system_pictures/schematics.jpg)
+
+
+## Photos
+
+![pic_menu](arcade_booth_system_pictures/arcade-booth-pic_1.jpg)
+![pic_gameplay](arcade_booth_system_pictures/arcade-booth-pic_2.jpg)
