@@ -8,7 +8,7 @@ This repository contains the part list, schematics, and code to reproduce a clas
 
 - Elegoo Uno R3 produced by Elegoo via their super starter kit bought [here](https://www.elegoo.com/product/elegoo-uno-project-super-starter-kit/).
 
-- Arduino Uno R3 shield found in the Elegoo super starter kit
+- Arduino Uno R3 shield found in the Elegoo super starter kit.
 
 - 14 short male to male wires found in the Elegoo super starter kit.
 
