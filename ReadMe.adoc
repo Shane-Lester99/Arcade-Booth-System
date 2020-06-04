@@ -3,16 +3,6 @@
 :Date: 07/11/2018
 :Revision: 1
 :License: MIT
+# Arcade Booth System
 
-# How this application works:
- 
-This application is a tic tac toe arcade style video game booth. Its arcade booth casing is made out of Lego. It supports single player vs. the computer or multiplayer vs. a friend. Upon plugging it in, it displays a welcome message. After that, it asks to select a game mode (single or multiplayer). If multiplayer is selected, it will begin to commence gameplay. If single game mode is selected, it will commence gameplay. The computer will choose the option left over. Upon winning the game, the player who won will be outputted to the screen. If there is a tie, it will output that there is a tie. After a game finished, the first menu (select a game mode) is outputted to the user again. The system repeats from there.
-
-
-To control menus and select pieces, a joystick (10k analog potentiometer) is used. To click options, an LED button is used. An LED matrix displays the output that the user sees.
-
-
-The program is implemented in the C++ programming language using the Arduino IDE.
-
-Note: the wire diagram, photos of the application, and the entire parts list is in the directory `pdfs`.
-
+This repository contains the schematics, part list, and code to reproduce a classic arcade booth. Currently only the game Tic Tac Toe exists in the booth, but an additional menu could be programmed in to add additional games. Pictures and schematics are available in the folder "pdfs". 
